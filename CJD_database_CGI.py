@@ -166,9 +166,9 @@ style = """
                 color: gray;
             }
             .about-body {
-                text-align: left;
+                text-align: center;
                 color: black;
-		margin: 75px;
+		        margin: 100px;
             }
             .upload-content {
                 font-family: Arial, Helvetica, sans-serif;
